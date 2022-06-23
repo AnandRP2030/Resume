@@ -1,0 +1,102 @@
+/* heading */
+body{
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+h5{
+    margin-top:10px;
+    margin-bottom:10px;
+}
+h4{
+    margin-bottom:5px;
+}
+img{
+    height: 115px;
+    width: 115px;
+    left: 220px;
+    position: relative;
+   
+
+}
+ul{
+    list-style-type: none;
+}
+td{
+    padding-left: 8px;
+}
+
+.header{
+    width:100%;
+    height:123px;
+}
+.left-half{
+    width:50%;
+    float:left;
+    height:123px;
+}
+.right-half{
+    
+    float:left;
+    height:123px;
+    width:50%;
+}
+.name{
+    color: rgb(1, 1, 1);
+    font-size: 42px;
+    position: absolute;
+    left: 370px;
+    top: 22px;
+    font-weight: bold;
+}
+
+.text-heading{
+    left: 361px;
+    top: -54px;
+    position: relative;
+    font-size: 17px;
+    text-align: left;
+    font-weight:bold;
+}
+.contact{   
+    position: relative;
+    left: 174px;
+    top: 24px;
+}
+
+.orange-color{
+    color:#8F00FF;
+}
+.line{
+    width:70%;
+    color:red;
+    height:1px;
+    background-color: red;
+}
+
+/**************** content *********************/
+.content{
+    width:70%;
+    padding-left:189px;
+    padding-top:10px;
+}
+.content-text{
+    padding-left:50px;
+}
+.content-education{
+    margin-top:-150px;
+}
+.content-head{
+margin-top:22px;
+margin-bottom: 60px;
+}
+.content-experience{
+
+    margin-bottom:361px;
+}
+.text-style{
+    font-style: italic;
+    color:grey;
+}
+.text{
+    margin-top:10px;
+}
